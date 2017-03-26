@@ -12,9 +12,9 @@ Fork from fayimora/basic-scala-project.g8
 ### 0.3.1
 
 -   Scala 2.12.1
--   ScalaTest 2.2.6
+-   ScalaTest 3.0.1
 -   SBT 0.13.13
--   ScalaCheck 1.13.2
+-   ScalaCheck 1.13.5
 
 ### 0.2.1
 
