@@ -7,6 +7,14 @@ This is a [giter8](https://github.com/n8han/giter8) template for generating a ne
 -   project `name`, `organization` and `version` customizable as variables
 
 Fork from fayimora/basic-scala-project.g8
+## My CHANGELOG
+
+### 0.1.4
+
+-   Scala 2.11.8
+-   ScalaTest 2.2.6
+-   SBT 0.13.12
+-   ScalaCheck 1.13.2
 
 ## Origin CHANGELOG
 
