@@ -9,7 +9,14 @@ This is a [giter8](https://github.com/n8han/giter8) template for generating a ne
 Fork from fayimora/basic-scala-project.g8
 ## My CHANGELOG
 
-### 0.1.4
+### 0.3.1
+
+-   Scala 2.12.1
+-   ScalaTest 2.2.6
+-   SBT 0.13.13
+-   ScalaCheck 1.13.2
+
+### 0.2.1
 
 -   Scala 2.11.8
 -   ScalaTest 2.2.6
